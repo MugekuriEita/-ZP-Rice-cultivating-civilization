@@ -4,7 +4,7 @@
 	<RecipeDef>
 		<defName>MakeThreshingMachineRice10</defName>
 		<label>稲穂を脱穀する(10)</label>
-		<description>脱穀して籾米と藁にわける。従来より効率的に脱穀できる。</description>
+		<description>脱穀して籾米と藁にわける。従来(バニラ)より効率的に脱穀できる。</description>
 		<jobString>稲穂を脱穀する</jobString>
 		<workAmount>400</workAmount>
 		<workSpeedStat>CookSpeed</workSpeedStat>
@@ -39,7 +39,7 @@
 	<RecipeDef>
 		<defName>MakeThreshingMachineRice50</defName>
 		<label>稲穂を脱穀する(50)</label>
-		<description>脱穀して籾米と藁にわける。従来より効率的に脱穀できる。</description>
+		<description>脱穀して籾米と藁にわける。従来(バニラ)より効率的に脱穀できる。</description>
 		<jobString>稲穂を脱穀する</jobString>
 		<workAmount>1800</workAmount>
 		<workSpeedStat>CookSpeed</workSpeedStat>
@@ -80,7 +80,7 @@
 	<RecipeDef>
 		<defName>MakeThreshingMachineRice100</defName>
 		<label>稲穂を脱穀する(100)</label>
-		<description>脱穀して籾米と藁にわける。従来より効率的に脱穀できる。</description>
+		<description>脱穀して籾米と藁にわける。従来(バニラ)より効率的に脱穀できる。</description>
 		<jobString>稲穂を脱穀する</jobString>
 		<workAmount>2800</workAmount>
 		<workSpeedStat>CookSpeed</workSpeedStat>
@@ -122,7 +122,7 @@
 	<RecipeDef>
 		<defName>MakeThreshingMachineRice200</defName>
 		<label>稲穂を脱穀する(200)</label>
-		<description>脱穀して籾米と藁にわける。従来より効率的に脱穀できる。</description>
+		<description>脱穀して籾米と藁にわける。従来(バニラ)より効率的に脱穀できる。</description>
 		<jobString>稲穂を脱穀する</jobString>
 		<workAmount>4800</workAmount>
 		<workSpeedStat>CookSpeed</workSpeedStat>
