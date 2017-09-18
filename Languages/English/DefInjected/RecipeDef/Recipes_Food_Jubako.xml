@@ -4,11 +4,11 @@
   <!-- 豪華な食事　重箱 -->
 
   <CookBRJubako4.label>BR Jubako(4)</CookBRJubako4.label>
-  <CookBRJubako4.description>Cooking a Jubako that can be eaten without table.</CookBRJubako4.description>
-  <CookBRJubako4.jobString>Cooking Jubako</CookBRJubako4.jobString>
+  <CookBRJubako4.description>Cook Jubakoes that can be eaten without table.</CookBRJubako4.description>
+  <CookBRJubako4.jobString>Cooking</CookBRJubako4.jobString>
 
   <CookWRJubako4.label>Jubako(4)</CookWRJubako4.label>
-  <CookWRJubako4.description>Cooking a Jubako that can be eaten without table.</CookWRJubako4.description>
-  <CookWRJubako4.jobString>Cooking Jubako</CookWRJubako4.jobString>
+  <CookWRJubako4.description>Cook Jubakoes that can be eaten without table.</CookWRJubako4.description>
+  <CookWRJubako4.jobString>Cooking</CookWRJubako4.jobString>
 
 </LanguageData>

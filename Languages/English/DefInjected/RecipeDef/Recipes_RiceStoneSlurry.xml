@@ -4,12 +4,12 @@
   <!-- 籾摺り臼　米(籾)⇒玄米 -->
 
   <MakeRiceStoneSlurryRice10.label>Momi⇒Brown rice(10)</MakeRiceStoneSlurryRice10.label>
-  <MakeRiceStoneSlurryRice10.description>Consuming Rice(Momi) is processed into Brown rice and Chaff.</MakeRiceStoneSlurryRice10.description>
-  <MakeRiceStoneSlurryRice10.jobString>Strip rice hulls from rice</MakeRiceStoneSlurryRice10.jobString>
+  <MakeRiceStoneSlurryRice10.description>Momi is divided into  Brown rice and Outher hull.</MakeRiceStoneSlurryRice10.description>
+  <MakeRiceStoneSlurryRice10.jobString>Dividing</MakeRiceStoneSlurryRice10.jobString>
 
   <MakeRiceStoneSlurryRice50.label>Momi⇒Brown rice(50)</MakeRiceStoneSlurryRice50.label>
-  <MakeRiceStoneSlurryRice50.description>Consuming Momi is processed into Brown rice and Chaff.</MakeRiceStoneSlurryRice50.description>
-  <MakeRiceStoneSlurryRice50.jobString>Strip rice hulls from rice</MakeRiceStoneSlurryRice50.jobString>
+  <MakeRiceStoneSlurryRice50.description>Momi is divided into  Brown rice and Outher hull.</MakeRiceStoneSlurryRice50.description>
+  <MakeRiceStoneSlurryRice50.jobString>Dividing</MakeRiceStoneSlurryRice50.jobString>
 
 
 </LanguageData>
