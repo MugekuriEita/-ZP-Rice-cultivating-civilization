@@ -1,6 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+   <RiceCraftingSpot.label>農作物加工所</RiceCraftingSpot.label>
+  <RiceCraftingSpot.description>農作物や副産物を加工する専用作業所</RiceCraftingSpot.description>
+  <RiceCraftingSpot_Blueprint.label>農作物加工所 (blueprint)</RiceCraftingSpot_Blueprint.label>
+  <RiceCraftingSpot_Frame.label>農作物加工所 (building)</RiceCraftingSpot_Frame.label>
+  <RiceCraftingSpot_Frame.description>農作物や副産物を加工する専用作業所</RiceCraftingSpot_Frame.description>
+
   <ThreshingMachine.label>Threshing machine</ThreshingMachine.label>
   <ThreshingMachine.description>【Role: Threshing】
     Agricultural tools to consume Inaho and convert it to Momi. 
