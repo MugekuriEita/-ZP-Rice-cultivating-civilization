@@ -1,15 +1,22 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <!-- 簡単な食事 おにぎり -->
+  <!-- 간단한 식사 주먹밥 -->
 
-  <CookBROnigiri4.label>玄米 おにぎり(4)</CookBROnigiri4.label>
-  <CookBROnigiri4.description>おにぎりを４個作る</CookBROnigiri4.description>
-  <CookBROnigiri4.jobString>おにぎりを作る</CookBROnigiri4.jobString>
+  <CookBROnigiri4.label>현미 주먹밥(4)</CookBROnigiri4.label>
+  <CookBROnigiri4.description>주먹밥을 4개 만든다</CookBROnigiri4.description>
+  <CookBROnigiri4.jobString>주먹밥을 만든다</CookBROnigiri4.jobString>
 
-  <CookWROnigiri4.label>おにぎり(4)</CookWROnigiri4.label>
-  <CookWROnigiri4.description>おにぎりを４個作る</CookWROnigiri4.description>
-  <CookWROnigiri4.jobString>おにぎりを作る</CookWROnigiri4.jobString>
+  <CookWROnigiri4.label>주먹밥(4)</CookWROnigiri4.label>
+  <CookWROnigiri4.description>주먹밥을 4개 만든다</CookWROnigiri4.description>
+  <CookWROnigiri4.jobString>주먹밥을 만든다</CookWROnigiri4.jobString>
 
+
+  <!--<CookOnigiriR4.label>현미 주먹밥(4)</CookOnigiriR4.label>-->
+  <!--<CookOnigiriR4.description>주먹밥을 4개 만든다</CookOnigiriR4.description>-->
+  <!--<CookOnigiriR4.jobString>주먹밥을 만든다</CookOnigiriR4.jobString>-->
+  <!--<CookOnigiriRPR4.label>주먹밥(4)</CookOnigiriRPR4.label>-->
+  <!--<CookOnigiriRPR4.description>주먹밥을 4개 만든다</CookOnigiriRPR4.description>-->
+  <!--<CookOnigiriRPR4.jobString>주먹밥을 만든다</CookOnigiriRPR4.jobString>-->
 
 </LanguageData>

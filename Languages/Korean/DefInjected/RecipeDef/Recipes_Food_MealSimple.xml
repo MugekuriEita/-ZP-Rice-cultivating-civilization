@@ -1,23 +1,36 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <!-- 簡単な食事 ご飯 -->
+  <!-- 간단한식사 밥 -->
 
-  <CookBRGohan1.label>玄米 ご飯</CookBRGohan1.label>
-  <CookBRGohan1.description>ご飯を作る</CookBRGohan1.description>
-  <CookBRGohan1.jobString>ご飯を作る</CookBRGohan1.jobString>
+  <CookBRGohan1.label>현미 밥</CookBRGohan1.label>
+  <CookBRGohan1.description>밥을 만든다</CookBRGohan1.description>
+  <CookBRGohan1.jobString>밥을 만든다</CookBRGohan1.jobString>
 
-  <CookBRGohan4.label>玄米 ご飯 (4)</CookBRGohan4.label>
-  <CookBRGohan4.description>ご飯を４個作る</CookBRGohan4.description>
-  <CookBRGohan4.jobString>ご飯を作る</CookBRGohan4.jobString>
+  <CookBRGohan4.label>현미 밥 (4)</CookBRGohan4.label>
+  <CookBRGohan4.description>밥을 4개 만든다</CookBRGohan4.description>
+  <CookBRGohan4.jobString>밥을 만든다</CookBRGohan4.jobString>
 
-  <CookGohan1.label>ご飯</CookGohan1.label>
-  <CookGohan1.description>ご飯を作る</CookGohan1.description>
-  <CookGohan1.jobString>ご飯を作る</CookGohan1.jobString>
+  <CookGohan1.label>밥</CookGohan1.label>
+  <CookGohan1.description>밥을 만든다</CookGohan1.description>
+  <CookGohan1.jobString>밥을 만든다</CookGohan1.jobString>
 
-  <CookGohan4.label>ご飯(4)</CookGohan4.label>
-  <CookGohan4.description>ご飯を４個作る</CookGohan4.description>
-  <CookGohan4.jobString>ご飯を作る</CookGohan4.jobString>
+  <CookGohan4.label>밥(4)</CookGohan4.label>
+  <CookGohan4.description>밥을 4개 만든다</CookGohan4.description>
+  <CookGohan4.jobString>밥을 만든다</CookGohan4.jobString>
 
+
+  <!--<CookRiceR1.label>현미 밥</CookRiceR1.label>-->
+  <!--<CookRiceR1.description>밥을 만든다</CookRiceR1.description>-->
+  <!--<CookRiceR1.jobString>밥을 만든다</CookRiceR1.jobString>-->
+  <!--<CookRiceR4.label>현미 밥 (4)</CookRiceR4.label>-->
+  <!--<CookRiceR4.description>밥을 4개 만든다</CookRiceR4.description>-->
+  <!--<CookRiceR4.jobString>밥을 만든다</CookRiceR4.jobString>-->
+  <!--<CookRiceRPR1.label>밥</CookRiceRPR1.label>-->
+  <!--<CookRiceRPR1.description>밥을 만든다</CookRiceRPR1.description>-->
+  <!--<CookRiceRPR1.jobString>밥을 만든다</CookRiceRPR1.jobString>-->
+  <!--<CookRiceRPR4.label>밥(4)</CookRiceRPR4.label>-->
+  <!--<CookRiceRPR4.description>밥을 4개 만든다</CookRiceRPR4.description>-->
+  <!--<CookRiceRPR4.jobString>밥을 만든다</CookRiceRPR4.jobString>-->
 
 </LanguageData>

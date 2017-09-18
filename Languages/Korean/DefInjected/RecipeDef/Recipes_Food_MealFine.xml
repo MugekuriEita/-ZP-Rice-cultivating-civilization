@@ -1,42 +1,67 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <!-- 手の込んだ食事　卵かけご飯 -->
+  <!-- 공들인 식사　간장계란밥 -->
 
-  <CookBRTKG1.label>玄米 卵かけご飯</CookBRTKG1.label>
-  <CookBRTKG1.description>卵かけご飯を作る</CookBRTKG1.description>
-  <CookBRTKG1.jobString>卵かけご飯を作る</CookBRTKG1.jobString>
+  <CookBRTKG1.label>현미 간장계란밥</CookBRTKG1.label>
+  <CookBRTKG1.description>간장계란밥을 만든다</CookBRTKG1.description>
+  <CookBRTKG1.jobString>간장계란밥을 만든다</CookBRTKG1.jobString>
 
-  <CookBRTKG4.label>玄米 卵かけご飯(4)</CookBRTKG4.label>
-  <CookBRTKG4.description>卵かけご飯を４個作る</CookBRTKG4.description>
-  <CookBRTKG4.jobString>卵かけご飯を作る</CookBRTKG4.jobString>
+  <CookBRTKG4.label>현미 간장계란밥(4)</CookBRTKG4.label>
+  <CookBRTKG4.description>현미 간장계란밥을４개 만든다</CookBRTKG4.description>
+  <CookBRTKG4.jobString>현미 간장계란밥 을 만든다</CookBRTKG4.jobString>
 
-  <CookWRTKG1.label>卵かけご飯</CookWRTKG1.label>
-  <CookWRTKG1.description>卵かけご飯を作る</CookWRTKG1.description>
-  <CookWRTKG1.jobString>卵かけご飯を作る</CookWRTKG1.jobString>
+  <CookWRTKG1.label>현미 간장계란밥</CookWRTKG1.label>
+  <CookWRTKG1.description>현미 간장계란밥 을 만든다</CookWRTKG1.description>
+  <CookWRTKG1.jobString>현미 간장계란밥 을 만든다</CookWRTKG1.jobString>
 
-  <CookWRTKG4.label>卵かけご飯(4)</CookWRTKG4.label>
-  <CookWRTKG4.description>卵かけご飯を４個作る</CookWRTKG4.description>
-  <CookWRTKG4.jobString>卵かけご飯を作る</CookWRTKG4.jobString>
+  <CookWRTKG4.label>현미 간장계란밥(4)</CookWRTKG4.label>
+  <CookWRTKG4.description>현미 간장계란밥을４개 만든다</CookWRTKG4.description>
+  <CookWRTKG4.jobString>현미 간장계란밥 을 만든다</CookWRTKG4.jobString>
 
 
-  <!-- 手の込んだ食事　肉丼 -->
+  <!-- 공들인 식사　고기 덮밥 -->
 
-  <CookBRGyudon1.label>玄米 肉丼</CookBRGyudon1.label>
-  <CookBRGyudon1.description>肉丼を作る</CookBRGyudon1.description>
-  <CookBRGyudon1.jobString>肉丼を作る</CookBRGyudon1.jobString>
+  <CookBRGyudon1.label>현미 고기 덮밥</CookBRGyudon1.label>
+  <CookBRGyudon1.description>고기 덮밥 을 만든다</CookBRGyudon1.description>
+  <CookBRGyudon1.jobString>고기 덮밥 을 만든다</CookBRGyudon1.jobString>
 
-  <CookBRGyudon4.label>玄米 肉丼(4)</CookBRGyudon4.label>
-  <CookBRGyudon4.description>肉丼を４個作る</CookBRGyudon4.description>
-  <CookBRGyudon4.jobString>肉丼を作る</CookBRGyudon4.jobString>
+  <CookBRGyudon4.label>현미 고기 덮밥(4)</CookBRGyudon4.label>
+  <CookBRGyudon4.description>고기 덮밥을４개 만든다</CookBRGyudon4.description>
+  <CookBRGyudon4.jobString>고기 덮밥 을 만든다</CookBRGyudon4.jobString>
 
-  <CookWRGyudon1.label>肉丼</CookWRGyudon1.label>
-  <CookWRGyudon1.description>肉丼を作る</CookWRGyudon1.description>
-  <CookWRGyudon1.jobString>肉丼を作る</CookWRGyudon1.jobString>
+  <CookWRGyudon1.label>고기 덮밥</CookWRGyudon1.label>
+  <CookWRGyudon1.description>고기 덮밥 을 만든다</CookWRGyudon1.description>
+  <CookWRGyudon1.jobString>고기 덮밥 을 만든다</CookWRGyudon1.jobString>
 
-  <CookWRGyudon4.label>肉丼(4)</CookWRGyudon4.label>
-  <CookWRGyudon4.description>肉丼を４個作る</CookWRGyudon4.description>
-  <CookWRGyudon4.jobString>肉丼を作る</CookWRGyudon4.jobString>
+  <CookWRGyudon4.label>고기 덮밥(4)</CookWRGyudon4.label>
+  <CookWRGyudon4.description>고기 덮밥을４개 만든다</CookWRGyudon4.description>
+  <CookWRGyudon4.jobString>고기 덮밥 을 만든다</CookWRGyudon4.jobString>
 
+
+  <!--<CookTKGR1.label>현미 현미 간장계란밥</CookTKGR1.label>-->
+  <!--<CookTKGR1.description>현미 간장계란밥 을 만든다</CookTKGR1.description>-->
+  <!--<CookTKGR1.jobString>현미 간장계란밥 을 만든다</CookTKGR1.jobString>-->
+  <!--<CookTKGR4.label>현미 현미 간장계란밥(4)</CookTKGR4.label>-->
+  <!--<CookTKGR4.description>현미 간장계란밥을４개 만든다</CookTKGR4.description>-->
+  <!--<CookTKGR4.jobString>현미 간장계란밥 을 만든다</CookTKGR4.jobString>-->
+  <!--<CookTKGRPR1.label>현미 간장계란밥</CookTKGRPR1.label>-->
+  <!--<CookTKGRPR1.description>현미 간장계란밥 을 만든다</CookTKGRPR1.description>-->
+  <!--<CookTKGRPR1.jobString>현미 간장계란밥 을 만든다</CookTKGRPR1.jobString>-->
+  <!--<CookTKGRPR4.label>현미 간장계란밥(4)</CookTKGRPR4.label>-->
+  <!--<CookTKGRPR4.description>현미 간장계란밥을４개 만든다</CookTKGRPR4.description>-->
+  <!--<CookTKGRPR4.jobString>현미 간장계란밥 을 만든다</CookTKGRPR4.jobString>-->
+  <!--<CookGyudonR1.label>현미 고기 덮밥</CookGyudonR1.label>-->
+  <!--<CookGyudonR1.description>고기 덮밥 을 만든다</CookGyudonR1.description>-->
+  <!--<CookGyudonR1.jobString>고기 덮밥 을 만든다</CookGyudonR1.jobString>-->
+  <!--<CookGyudonR4.label>현미 고기 덮밥(4)</CookGyudonR4.label>-->
+  <!--<CookGyudonR4.description>고기 덮밥을４개 만든다</CookGyudonR4.description>-->
+  <!--<CookGyudonR4.jobString>고기 덮밥 을 만든다</CookGyudonR4.jobString>-->
+  <!--<CookGyudonRPR1.label>고기 덮밥</CookGyudonRPR1.label>-->
+  <!--<CookGyudonRPR1.description>고기 덮밥 을 만든다</CookGyudonRPR1.description>-->
+  <!--<CookGyudonRPR1.jobString>고기 덮밥 을 만든다</CookGyudonRPR1.jobString>-->
+  <!--<CookGyudonRPR4.label>고기 덮밥(4)</CookGyudonRPR4.label>-->
+  <!--<CookGyudonRPR4.description>고기 덮밥을４개 만든다</CookGyudonRPR4.description>-->
+  <!--<CookGyudonRPR4.jobString>고기 덮밥 을 만든다</CookGyudonRPR4.jobString>-->
 
 </LanguageData>

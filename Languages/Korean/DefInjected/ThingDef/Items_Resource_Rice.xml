@@ -1,29 +1,29 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Inaho.label>稲穂</Inaho.label>
-  <Inaho.description>白米を美味しく食べるための五箇条\n１、【脱穀】稲穂を脱穀して米(籾)と藁にわける\n２、【籾摺り】米(籾付き)を籾摺りして玄米と籾殻にわける\n３、【精米】玄米を精米機にかけて白米と米ぬかにわける\n４、【調理】美味しく調理をする\n５、【食事】大地の恵みに感謝していただきます!!</Inaho.description>
+  <Inaho.label>벼 이삭</Inaho.label>
+  <Inaho.description>백미를 맛있게 먹기 위한 5가지 조항\n１,【탈곡】벼 이삭을 탈곡시켜 쌀(벼)와 짚으로 나눈다.\n２,【조미(糙米)】쌀(벼가 붙은)을 조미하여 현미와 왕겨로 나눈다\n３,【정미】현미를 정미기에 넣고 백미와 쌀겨로 나눈다\n４,【조리】맛있게 조리한다\n５,【식사】대지의 은총에 감사하며 잘 먹겠습니다!!</Inaho.description>
 
-  <RiceMomi.label>米(籾)</RiceMomi.label>
-  <RiceMomi.description>籾付きのお米。このまま食べることは出来ないので脱穀精米しよう!!\n脱穀することで玄米と副産物である藁を手に入れることができる。</RiceMomi.description>
+  <RiceMomi.label>쌀(벼)</RiceMomi.label>
+  <RiceMomi.description>벼가 붙은 쌀. 이대로 먹는 것은 불가능하기에 탈곡정미를 하자!!\n탈곡하는 것으로 현미와 부산물인 짚을 얻을 수 있다.</RiceMomi.description>
 
   <!--[Core] <RawRice.label>쌀</RawRice.label>-->
   <!--[Core] <RawRice.description>익히지 않은 쌀입니다.</RawRice.description>-->
 
-  <BrownRice.label>玄米</BrownRice.label>
-  <BrownRice.description>脱穀して米から籾を外すことで栄養価が高い玄米を食べることが出来る。</BrownRice.description>
+  <BrownRice.label>현미</BrownRice.label>
+  <BrownRice.description>탈곡시켜 쌀로부터 벼를 분리시킨 것으로 영양가가 높은 현미를 먹는 것이 가능하다.</BrownRice.description>
 
   <WhiteRice.label>白米</WhiteRice.label>
-  <WhiteRice.description>丁寧に脱穀して精米したお米。\n精米する過程で栄養素を削りとってしまうが味は抜群によくなる。</WhiteRice.description>
+  <WhiteRice.description>정성스럽게 탈곡정미한 쌀.\n정미한 과정에서 영양소를 깎아 버리지만 맛은 뛰어나게 좋아진다.</WhiteRice.description>
 
-  <Straw.label>藁</Straw.label>
-  <Straw.description>脱穀したさいの副産物。\n動物の飼料、肥料、燃料または工芸品など様々な場面で活躍する。</Straw.description>
+  <Straw.label>짚</Straw.label>
+  <Straw.description>탈곡 시킬 때의 부산물.\n동물의 사료, 비료, 연료 또는 공예품 등의 여러가지 면에서 활약한다.</Straw.description>
 
-  <Chaff.label>籾殻</Chaff.label>
-  <Chaff.description>籾摺りをしたさいの副産物。\n使い道として肥料、燃料、動物の飼料(低栄養)として使える。</Chaff.description>
+  <Chaff.label>왕겨</Chaff.label>
+  <Chaff.description>조미(糙米)할 때의 부산물.\n사용처로써 비료, 연료, 동물의 사료(저영양)로써 쓰인다.</Chaff.description>
 
-  <RiceBran.label>米ぬか</RiceBran.label>
-  <RiceBran.description>玄米を精米したさいの副産物。\n使い道として肥料、動物の飼料(低栄養)の材料になる。</RiceBran.description>
+  <RiceBran.label>쌀겨</RiceBran.label>
+  <RiceBran.description>현미를 정미할 때의 부산물.\n사용처로써 비료, 동물의 사료(저영양)의 재료로 쓰인다.</RiceBran.description>
 
 
 </LanguageData>
