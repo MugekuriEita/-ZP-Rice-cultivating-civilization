@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <ReUplandRice.label>陸稲</ReUplandRice.label>
-  <ReUplandRice.description>稲の生産性を上げるために品種改良し陸稲を生みだす。</ReUplandRice.description>
+  <ReUplandRice.label>밭벼</ReUplandRice.label>
+  <ReUplandRice.description>벼의 생산성을 올리기 위해서 품종개량하여 밭벼를 산출해냈다.</ReUplandRice.description>
 
-  <ReWetlandRice.label>水稲</ReWetlandRice.label>
-  <ReWetlandRice.description>更なら豊穣をもたらすために水稲と水田の開発をする。</ReWetlandRice.description>
+  <ReWetlandRice.label>논</ReWetlandRice.label>
+  <ReWetlandRice.description>한층 더 풍요를 부르기 위하여 논벼와 논의 개발을 한다.</ReWetlandRice.description>
 
 
 </LanguageData>

@@ -2,7 +2,7 @@
 <LanguageData>
 
   <!-- 肥料作成 -->
-
+  
   <MakeR_Smoldering10.label>Outer hull charcoal(10)</MakeR_Smoldering10.label>
   <MakeR_Smoldering10.description>Process Outer hull into fertilizer</MakeR_Smoldering10.description>
   <MakeR_Smoldering10.jobString>Processing</MakeR_Smoldering10.jobString>
@@ -26,6 +26,7 @@
   <MakeR_Compost100.label>Compost(100)</MakeR_Compost100.label>
   <MakeR_Compost100.description>Make fertilizer from straw and rice bran.</MakeR_Compost100.description>
   <MakeR_Compost100.jobStringMaking</MakeR_Compost100.jobString>
+
 
 
 </LanguageData>

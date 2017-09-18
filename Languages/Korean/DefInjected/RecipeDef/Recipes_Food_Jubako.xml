@@ -1,15 +1,22 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <!-- 豪華な食事　重箱 -->
+  <!-- 호화스러운 식사　찬합 -->
 
-  <CookBRJubako4.label>玄米 重箱(4)</CookBRJubako4.label>
-  <CookBRJubako4.description>重箱を４個作る</CookBRJubako4.description>
-  <CookBRJubako4.jobString>重箱を作る</CookBRJubako4.jobString>
+  <CookBRJubako4.label>현미 찬합(4)</CookBRJubako4.label>
+  <CookBRJubako4.description>찬합을 4개 만든다</CookBRJubako4.description>
+  <CookBRJubako4.jobString>찬합을 만든다</CookBRJubako4.jobString>
 
-  <CookWRJubako4.label>重箱(4)</CookWRJubako4.label>
-  <CookWRJubako4.description>重箱を４個作る</CookWRJubako4.description>
-  <CookWRJubako4.jobString>重箱を作る</CookWRJubako4.jobString>
+  <CookWRJubako4.label>찬합(4)</CookWRJubako4.label>
+  <CookWRJubako4.description>찬합을 4개 만든다</CookWRJubako4.description>
+  <CookWRJubako4.jobString>찬합을 만든다</CookWRJubako4.jobString>
 
+
+  <!--<CookJubakoR4.label>현미 찬합(4)</CookJubakoR4.label>-->
+  <!--<CookJubakoR4.description>현미찬합을 4개 만든다</CookJubakoR4.description>-->
+  <!--<CookJubakoR4.jobString>찬합을 만든다</CookJubakoR4.jobString>-->
+  <!--<CookJubakoRPR4.label>찬합(4)</CookJubakoRPR4.label>-->
+  <!--<CookJubakoRPR4.description>찬합을 4개 만든다</CookJubakoRPR4.description>-->
+  <!--<CookJubakoRPR4.jobString>찬합을 만든다</CookJubakoRPR4.jobString>-->
 
 </LanguageData>

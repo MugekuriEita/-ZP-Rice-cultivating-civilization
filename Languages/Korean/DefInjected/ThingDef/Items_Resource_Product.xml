@@ -1,43 +1,43 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <!-- 燃料 -->
+  <!-- 연료 -->
 
-  <Momigalite.label>モミガライト</Momigalite.label>
-  <Momigalite.description>籾殻を燃料用に加工したもの。</Momigalite.description>
+  <Momigalite.label>왕겨연료</Momigalite.label>
+  <Momigalite.description>왕겨를 연료용으로 가공한 것.</Momigalite.description>
 
-  <FuelStraw.label>燃料用藁</FuelStraw.label>
-  <FuelStraw.description>藁を燃料用に加工したもの。</FuelStraw.description>
-
-
-  <!-- 米俵 -->
-
-  <StrawRiceBag_RawRice.label>米俵(米)</StrawRiceBag_RawRice.label>
-  <StrawRiceBag_RawRice.description>米(生)を大量に保管できる。また、特産品として売れる。</StrawRiceBag_RawRice.description>
-
-  <StrawRiceBag_RiceMomi.label>米俵(籾)</StrawRiceBag_RiceMomi.label>
-  <StrawRiceBag_RiceMomi.description>米(籾)を保管できる。また、特産品として売れる。</StrawRiceBag_RiceMomi.description>
-
-  <StrawRiceBag_BrownRice.label>米俵(玄米)</StrawRiceBag_BrownRice.label>
-  <StrawRiceBag_BrownRice.description>玄米を保管できる。また、特産品として高く売れる。</StrawRiceBag_BrownRice.description>
-
-  <StrawRiceBag_WhiteRice.label>米俵(白米)</StrawRiceBag_WhiteRice.label>
-  <StrawRiceBag_WhiteRice.description>白米を保管できる。また、特産品として非常に高く売れる。</StrawRiceBag_WhiteRice.description>
+  <FuelStraw.label>연료용 짚</FuelStraw.label>
+  <FuelStraw.description>짚을 연료용으로 가공한 것.</FuelStraw.description>
 
 
-  <!-- 肥料 -->
+  <!-- 쌀가마니 -->
 
-  <R_Smoldering.label>燻炭(籾殻)</R_Smoldering.label>
-  <R_Smoldering.description>水田製作時に使う肥料。</R_Smoldering.description>
+  <StrawRiceBag_RawRice.label>가마니(쌀)</StrawRiceBag_RawRice.label>
+  <StrawRiceBag_RawRice.description>쌀(생)을 대량으로 보존 시킬 수 있다. 또、특산품으로써 팔린다.</StrawRiceBag_RawRice.description>
 
-  <R_Compost.label>堆肥</R_Compost.label>
-  <R_Compost.description>水田製作時に使う肥料。</R_Compost.description>
+  <StrawRiceBag_RiceMomi.label>가마니(벼)</StrawRiceBag_RiceMomi.label>
+  <StrawRiceBag_RiceMomi.description>쌀(벼)를 보존시킬 수 있다. 또、특산품으로써 팔린다.</StrawRiceBag_RiceMomi.description>
+
+  <StrawRiceBag_BrownRice.label>가마니(현미)</StrawRiceBag_BrownRice.label>
+  <StrawRiceBag_BrownRice.description>현미를 보존시킬 수 있다、또、특산품으로써 팔린다.</StrawRiceBag_BrownRice.description>
+
+  <StrawRiceBag_WhiteRice.label>가마니(백미)</StrawRiceBag_WhiteRice.label>
+  <StrawRiceBag_WhiteRice.description>현미를 보존시킬 수 있다、또、특산품으로써 팔린다.</StrawRiceBag_WhiteRice.description>
 
 
-  <!-- 飼料 -->
+  <!-- 비료 -->
 
-  <Manger.label>飼い葉</Manger.label>
-  <Manger.description>家畜用飼料(高栄養素)</Manger.description>
+  <R_Smoldering.label>훈탄(왕겨)</R_Smoldering.label>
+  <R_Smoldering.description>논 제작시에 사용되는 비료.</R_Smoldering.description>
+
+  <R_Compost.label>퇴비</R_Compost.label>
+  <R_Compost.description>논 제작시에 사용되는 비료.</R_Compost.description>
+
+
+  <!-- 사료 -->
+
+  <Manger.label>여물</Manger.label>
+  <Manger.description>가축용사료(고영양소)</Manger.description>
 
 
 </LanguageData>

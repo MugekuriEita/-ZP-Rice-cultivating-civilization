@@ -1,17 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <PaddyField.label>水田</PaddyField.label>
-  <PaddyField.description>水稲を育てることが出来る水田。肥沃度200%\n泥,湿地,浅瀬にしか設置できないが豊富な水分と栄養素があるため、汎用型に比べると高性能です。</PaddyField.description>
-  <PaddyField_Blueprint.label>水田 (blueprint)</PaddyField_Blueprint.label>
-  <PaddyField_Frame.label>水田 (building)</PaddyField_Frame.label>
-  <PaddyField_Frame.description>水稲を育てることが出来る水田。肥沃度200%\n泥,湿地,浅瀬にしか設置できないが豊富な水分と栄養素があるため、汎用型に比べると高性能です。</PaddyField_Frame.description>
+  <PaddyField.label>논</PaddyField.label>
+  <PaddyField.description>논벼를 기르는 것이 가능한 논. 비옥도200%\n진흙,습지,얕은 물에서 밖에 설치불가능 하지만 풍부한 수분과 영양소가 있기에、범용형에 비교하면 고성능입니다.</PaddyField.description>
+  <PaddyField_Blueprint.label>논 (blueprint)</PaddyField_Blueprint.label>
+  <PaddyField_Frame.label>논 (building)</PaddyField_Frame.label>
+  <PaddyField_Frame.description>논벼를 기르는 것이 가능한 논. 비옥도200%\n진흙,습지,얕은 물에서 밖에 설치불가능 하지만 풍부한 수분과 영양소가 있기에、범용형에 비교하면 고성능입니다.</PaddyField_Frame.description>
 
-  <PaddyField_GP.label>水田(汎用型)</PaddyField_GP.label>
-  <PaddyField_GP.description>水稲を育てることが出来る水田。肥沃度140%。\n水辺以外設置可能。</PaddyField_GP.description>
-  <PaddyField_GP_Blueprint.label>水田(汎用型) (blueprint)</PaddyField_GP_Blueprint.label>
-  <PaddyField_GP_Frame.label>水田(汎用型) (building)</PaddyField_GP_Frame.label>
-  <PaddyField_GP_Frame.description>水稲を育てることが出来る水田。肥沃度140%。\n水辺以外設置可能。</PaddyField_GP_Frame.description>
+  <PaddyField_GP.label>논(범용형)</PaddyField_GP.label>
+  <PaddyField_GP.description>논벼를 기르는 것이 가능한 논。비옥도140%。\n물 주변 이외에 설치가능.</PaddyField_GP.description>
+  <PaddyField_GP_Blueprint.label>논(범용형) (blueprint)</PaddyField_GP_Blueprint.label>
+  <PaddyField_GP_Frame.label>논(범용형) (building)</PaddyField_GP_Frame.label>
+  <PaddyField_GP_Frame.description>논벼를 기르는 것이 가능한 논。비옥도140%。\n물 주변 이외에 설치가능.</PaddyField_GP_Frame.description>
 
 
 </LanguageData>

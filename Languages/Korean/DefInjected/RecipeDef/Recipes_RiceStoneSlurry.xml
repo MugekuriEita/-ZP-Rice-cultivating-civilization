@@ -1,15 +1,15 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <!-- 籾摺り臼　米(籾)⇒玄米 -->
+  <!-- 벼 절구　쌀(벼)⇒현미 -->
 
-  <MakeRiceStoneSlurryRice10.label>米(籾)を玄米にする(10)</MakeRiceStoneSlurryRice10.label>
-  <MakeRiceStoneSlurryRice10.description>臼で籾を外して玄米と籾殻にわける。</MakeRiceStoneSlurryRice10.description>
-  <MakeRiceStoneSlurryRice10.jobString>籾摺りをする</MakeRiceStoneSlurryRice10.jobString>
+  <MakeRiceStoneSlurryRice10.label>쌀(벼)를 현미로 만든다(10)</MakeRiceStoneSlurryRice10.label>
+  <MakeRiceStoneSlurryRice10.description>절구로 벼를 빻아서 현미와 왕겨로 나눈다.</MakeRiceStoneSlurryRice10.description>
+  <MakeRiceStoneSlurryRice10.jobString>벼 빻는 중</MakeRiceStoneSlurryRice10.jobString>
 
-  <MakeRiceStoneSlurryRice50.label>米(籾)を玄米にする(50)</MakeRiceStoneSlurryRice50.label>
-  <MakeRiceStoneSlurryRice50.description>臼で籾を外して玄米と籾殻にわける。</MakeRiceStoneSlurryRice50.description>
-  <MakeRiceStoneSlurryRice50.jobString>籾摺りをする</MakeRiceStoneSlurryRice50.jobString>
+  <MakeRiceStoneSlurryRice50.label>쌀(벼)를 현미로 만든다(50)</MakeRiceStoneSlurryRice50.label>
+  <MakeRiceStoneSlurryRice50.description>절구로 벼를 빻아서 현미와 왕겨로 나눈다.</MakeRiceStoneSlurryRice50.description>
+  <MakeRiceStoneSlurryRice50.jobString>벼 빻는 중</MakeRiceStoneSlurryRice50.jobString>
 
 
 </LanguageData>

@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <RiceProcessing.label>脱穀</RiceProcessing.label>
-  <RiceProcessing.description>脱穀することで稲穂を玄米にかえる。精米することで玄米から白米にかえる。</RiceProcessing.description>
-  <RiceProcessing.labelShort>脱穀</RiceProcessing.labelShort>
-  <RiceProcessing.pawnLabel>脱穀精米</RiceProcessing.pawnLabel>
-  <RiceProcessing.gerundLabel>脱穀精米</RiceProcessing.gerundLabel>
-  <RiceProcessing.verb>脱穀精米</RiceProcessing.verb>
+  <RiceProcessing.label>탈곡</RiceProcessing.label>
+  <RiceProcessing.description>탈곡 시키는 것으로 벼 이삭을 현미로 바꿀 수 있다. 정미하는 것으로 현미를 백미로 바꿀 수 있다.</RiceProcessing.description>
+  <RiceProcessing.labelShort>탈곡</RiceProcessing.labelShort>
+  <RiceProcessing.pawnLabel>탈곡정미</RiceProcessing.pawnLabel>
+  <RiceProcessing.gerundLabel>탈곡정미</RiceProcessing.gerundLabel>
+  <RiceProcessing.verb>탈곡정미</RiceProcessing.verb>
 
 
 </LanguageData>
