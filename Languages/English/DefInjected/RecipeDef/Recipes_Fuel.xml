@@ -4,28 +4,28 @@
   <!-- 燃料作成 -->
 
   <MakeMomigalite10.label>Momigalite(10)</MakeMomigalite10.label>
-  <MakeMomigalite10.description>Process Chaff into fuel.</MakeMomigalite10.description>
-  <MakeMomigalite10.jobString>Make Momigalite</MakeMomigalite10.jobString>
+  <MakeMomigalite10.description>Process Outer hull into fuel.</MakeMomigalite10.description>
+  <MakeMomigalite10.jobString>Proessing</MakeMomigalite10.jobString>
 
   <MakeMomigalite50.label>Momigalite(50)</MakeMomigalite50.label>
-  <MakeMomigalite50.description>Process Chaff into fuel.</MakeMomigalite50.description>
-  <MakeMomigalite50.jobString>Make Momigalite</MakeMomigalite50.jobString>
+  <MakeMomigalite50.description>Process Outer hull into fuel.</MakeMomigalite50.description>
+  <MakeMomigalite50.jobString>Proessing</MakeMomigalite50.jobString>
 
   <MakeMomigalite100.label>Momigalite(100)</MakeMomigalite100.label>
-  <MakeMomigalite100.description>Process Chaff into fuel.</MakeMomigalite100.description>
-  <MakeMomigalite100.jobString>Make Momigalite</MakeMomigalite100.jobString>
+  <MakeMomigalite100.description>Process Outer hull into fuel.</MakeMomigalite100.description>
+  <MakeMomigalite100.jobString>Proessing</MakeMomigalite100.jobString>
 
   <MakeFuelStraw10.label>Fuel straw(10)</MakeFuelStraw10.label>
   <MakeFuelStraw10.description>Process straw into fuel</MakeFuelStraw10.description>
-  <MakeFuelStraw10.jobString>Making fuel straw</MakeFuelStraw10.jobString>
+  <MakeFuelStraw10.jobString>Proessing</MakeFuelStraw10.jobString>
 
   <MakeFuelStraw50.label>Fuel straw(50)</MakeFuelStraw50.label>
   <MakeFuelStraw50.description>Process straw into fuel</MakeFuelStraw50.description>
-  <MakeFuelStraw50.jobString>Making fuel straw</MakeFuelStraw50.jobString>
+  <MakeFuelStraw50.jobString>Proessing</MakeFuelStraw50.jobString>
 
   <MakeFuelStraw100.label>Fuel straw(100)</MakeFuelStraw100.label>
   <MakeFuelStraw100.description>Process straw into fuel</MakeFuelStraw100.description>
-  <MakeFuelStraw100.jobString>Making fuel straw</MakeFuelStraw100.jobString>
+  <MakeFuelStraw100.jobString>Proessing</MakeFuelStraw100.jobString>
 
 
 </LanguageData>
