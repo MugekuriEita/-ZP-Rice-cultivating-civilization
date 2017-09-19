@@ -61,19 +61,4 @@
   <PicnicSheet_Frame.label>Picnic sheet (building)</PicnicSheet_Frame.label>
   <PicnicSheet_Frame.description>A table to use outside. You can not move furniture, but the material is coming back.</PicnicSheet_Frame.description>
 
-
-  <!--<R_StrawMat_large.label>Straw mat(large)</R_StrawMat_large.label>-->
-  <!--<R_StrawMat_large.description>A table to use outside. You can not move furniture, but the material is coming back.</R_StrawMat_large.description>-->
-  <!--<R_StrawMat_large_Blueprint.label>Straw mat(large) (blueprint)</R_StrawMat_large_Blueprint.label>-->
-  <!--<R_StrawMat_large_Blueprint_Install.label>Straw mat(large) (blueprint)</R_StrawMat_large_Blueprint_Install.label>-->
-  <!--<R_StrawMat_large_Frame.label>Straw mat(large) (building)</R_StrawMat_large_Frame.label>-->
-  <!--<R_StrawMat.label>Straw mat</R_StrawMat.label>-->
-  <!--<R_StrawMat.description>A table to use outside. You can not move furniture, but the material is coming back.</R_StrawMat.description>-->
-  <!--<R_StrawMat_Blueprint.label>Straw mat (blueprint)</R_StrawMat_Blueprint.label>-->
-  <!--<R_StrawMat_Blueprint_Install.label>Straw mat (blueprint)</R_StrawMat_Blueprint_Install.label>-->
-  <!--<R_StrawMat_Frame.label>Straw mat (building)</R_StrawMat_Frame.label>-->
-  <!--<GroundSit_Blueprint_Install.label>Sit on the ground (blueprint)</GroundSit_Blueprint_Install.label>-->
-  <!--<PicnicSheet_large_Blueprint_Install.label>Picnic sheet(large) (blueprint)</PicnicSheet_large_Blueprint_Install.label>-->
-  <!--<PicnicSheet_Blueprint_Install.label>Picnic sheet (blueprint)</PicnicSheet_Blueprint_Install.label>-->
-
 </LanguageData>
