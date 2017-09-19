@@ -2,11 +2,11 @@
 <LanguageData>
 
   <Messtin.label>Messtin</Messtin.label>
-  <Messtin.description>It is used for cooking rice and simple cooking. Cooking speed because there is only a minimum of equipment is reduced by 30%.</Messtin.description>
+  <Messtin.description>It is used for cooking rice and simple cooking. Cooking speed is reduced by 30%, because there is only a minimum of equipment.</Messtin.description>
   <Messtin_Blueprint.label>Messtin (blueprint)</Messtin_Blueprint.label>
   <Messtin_Blueprint_Install.label>Messtin (blueprint)</Messtin_Blueprint_Install.label>
   <Messtin_Frame.label>Messtin (building)</Messtin_Frame.label>
-  <Messtin_Frame.description>It is used for cooking rice and simple cooking. Cooking speed because there is only a minimum of equipment is reduced by 30%.</Messtin_Frame.description>
+  <Messtin_Frame.description>It is used for cooking rice and simple cooking. Cooking speed is reduced by 30%, because there is only a minimum of equipment.</Messtin_Frame.description>
 
   <IronPot.label>Iron pot</IronPot.label>
   <IronPot.description>A convenient cooking table when cooking rice or making soup.</IronPot.description>

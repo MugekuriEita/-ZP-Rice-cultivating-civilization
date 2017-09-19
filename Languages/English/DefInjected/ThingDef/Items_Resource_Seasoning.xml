@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
   <!-- 調味料 -->
 
-  <R_Syrup.label>Syrup</R_Syrup.label>
+  <R_Syrup.label>Rice Syrup</R_Syrup.label>
   <R_Syrup.description>Traditional Japanese sweetener.\n\nDepending on the type of rice as raw material and its processing method, it shows golden to red copper color.\n\nBefore the spread of sugar, it was used everywhere in Japan.</R_Syrup.description>
 
   <R_NaturalSalt.label>Natural salt</R_NaturalSalt.label>
