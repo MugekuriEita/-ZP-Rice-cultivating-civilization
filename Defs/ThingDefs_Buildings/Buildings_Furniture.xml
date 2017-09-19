@@ -184,7 +184,7 @@
 	<ThingDef ParentName="PicnicBase">
 		<defName>R_Goza_large</defName>
 		<label>茣蓙(大)</label>
-		<description>外で食べるさいにテーブル代わりになる茣蓙。\n撤去不可だが素材はほぼ返ってきます。</description>
+		<description>外で食べる時にテーブル代わりになる茣蓙。\n撤去不可だが素材はほぼ返ってきます。</description>
 		<graphicData>
 			<texPath>Things/Buildings/goza</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
@@ -206,7 +206,7 @@
 	<ThingDef ParentName="PicnicBase">
 		<defName>R_Goza</defName>
 		<label>茣蓙</label>
-		<description>外で食べるさいにテーブル代わりになる茣蓙。\n撤去不可だが素材はほぼ返ってきます。</description>
+		<description>外で食べる時にテーブル代わりになる茣蓙。\n撤去不可だが素材はほぼ返ってきます。</description>
 		<graphicData>
 			<texPath>Things/Buildings/goza</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
@@ -252,7 +252,7 @@
 	<ThingDef ParentName="PicnicBase">
 		<defName>PicnicSheet_large</defName>
 		<label>レジャーシート(大)</label>
-		<description>外で食べるさいにテーブル代わりになるレジャーシート。\n撤去不可だが素材はほぼ返ってきます。</description>
+		<description>外で食べる時にテーブル代わりになるレジャーシート。\n撤去不可だが素材はほぼ返ってきます。</description>
 		<graphicData>
 			<texPath>Things/Buildings/PicnicSheet</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
@@ -276,7 +276,7 @@
 	<ThingDef ParentName="PicnicBase">
 		<defName>PicnicSheet</defName>
 		<label>レジャーシート</label>
-		<description>外で食べるさいにテーブル代わりになるレジャーシート。\n撤去不可だが素材はほぼ返ってきます。</description>
+		<description>外で食べる時にテーブル代わりになるレジャーシート。\n撤去不可だが素材はほぼ返ってきます。</description>
 		<graphicData>
 			<texPath>Things/Buildings/PicnicSheet</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
