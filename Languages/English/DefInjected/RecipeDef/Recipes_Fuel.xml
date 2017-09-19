@@ -16,15 +16,15 @@
   <MakeMomigalite100.jobString>Proessing</MakeMomigalite100.jobString>
 
   <MakeFuelStraw10.label>Fuel straw(10)</MakeFuelStraw10.label>
-  <MakeFuelStraw10.description>Process straw into fuel</MakeFuelStraw10.description>
+  <MakeFuelStraw10.description>Process straw into fuel.</MakeFuelStraw10.description>
   <MakeFuelStraw10.jobString>Proessing</MakeFuelStraw10.jobString>
 
   <MakeFuelStraw50.label>Fuel straw(50)</MakeFuelStraw50.label>
-  <MakeFuelStraw50.description>Process straw into fuel</MakeFuelStraw50.description>
+  <MakeFuelStraw50.description>Process straw into fuel.</MakeFuelStraw50.description>
   <MakeFuelStraw50.jobString>Proessing</MakeFuelStraw50.jobString>
 
   <MakeFuelStraw100.label>Fuel straw(100)</MakeFuelStraw100.label>
-  <MakeFuelStraw100.description>Process straw into fuel</MakeFuelStraw100.description>
+  <MakeFuelStraw100.description>Process straw into fuel.</MakeFuelStraw100.description>
   <MakeFuelStraw100.jobString>Proessing</MakeFuelStraw100.jobString>
 
 
